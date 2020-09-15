@@ -3,3 +3,5 @@ npm-debug.log
 test
 *.sw*
 *.un~
+*.bak
+
