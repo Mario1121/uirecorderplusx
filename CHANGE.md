@@ -1,7 +1,8 @@
 UI Recorder Plus X change log (Based On UI Recorder)
 ====================
 ## ver 1.0.8（2020-09-15）
-
+1.Add: Init Test Environment Function
+2.Add: Assertion Of Download/Export File (Text File/Zip File/Excel)
 
 
 UI Recorder change log
