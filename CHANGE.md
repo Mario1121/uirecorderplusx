@@ -6,8 +6,6 @@ UI Recorder Plus X change log (Based On UI Recorder)
 2. Add: Assertion Of Download/Export File (Text File/Zip File/Excel) Function
 
 
-
-
 UI Recorder change log
 ====================
 
