@@ -1,5 +1,12 @@
+UI Recorder Plus X change log (Based On UI Recorder)
+====================
+## ver 1.0.8（2020-09-15）
+
+
+
 UI Recorder change log
 ====================
+
 ## ver 3.4.3（2020-07-28）
 1.Fix: chrome options default config
 
