@@ -1,13 +1,7 @@
-UI Recorder Plus X change log (Based On UI Recorder)
-====================
-
-## ver 1.0.8（2020-09-15）
-1. Add: Init Test Environment Function
-2. Add: Assertion Of Download/Export File (Text File/Zip File/Excel) Function
-
-
 UI Recorder change log
 ====================
+## ver 3.5.3（2020-10-29）
+1.Fix：Debugger Mode
 
 ## ver 3.4.3（2020-07-28）
 1.Fix: chrome options default config
